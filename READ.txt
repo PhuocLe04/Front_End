@@ -1,0 +1,2 @@
+Học được cơ bản NEXTJS.
+Dưới trang page có phần login khi ấn vào sẽ chuyển hướng.
